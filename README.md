@@ -1,3 +1,1 @@
-# calcula
-
-or-syc
+# calculaor-syc
